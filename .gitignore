@@ -1,3 +1,6 @@
 venv/
 packages.txt
 requirements.txt
+
+# Data repository folder
+DATA/
